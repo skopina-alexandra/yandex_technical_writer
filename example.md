@@ -6,21 +6,25 @@
 <summary>Скачивание</summary>
 
 1. В терминале перейдите в директорию, в которую хотет скачать проект:
-```
-cd <path_to_directory>
-```
+    ```
+    cd <path_to_directory>
+    ```
+
 1. Скачайте репозиторий с помощью команды:
-```
-git clone https://github.com/skopina-alexandra/masha
-```
+    ```
+    git clone https://github.com/skopina-alexandra/masha
+    ```
+
 1. Перейдите в папку с репозиторием:
-```
-cd /masha
-```
+
+    ```
+    cd /masha
+    ```
+
 1. Установите зависимости:
-```
-npm install
-```
+    ```
+    npm install
+    ```
 </details>
 
 <details>
